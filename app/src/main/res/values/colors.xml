@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorWhiteSmoke">#F7F7F7 </color>
+    <color name="colorGrey">#616161</color>
+    <color name="colorLightGrey">#bdbdbd</color>
+    <color name="colorPurple">#d500f9</color>
+    <color name="colorOrange">#ff6d00</color>
+    <color name="colortransparent">@android:color/transparent</color>
+
+    <color name="group_divider_color">#80CBC4</color>
+    <color name="list_group_title">#808080</color>
+    <color name="list_item_title">#AAAAAA</color>
+
+
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="items">Case Options</string>
+    <string name="website">https://en.wikipedia.org/wiki/Film</string>
+    <string name="date">22 Oct 2015</string>
+    <string name="selected_item">Selected item</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="result">Result</string>
+    <string name="logout">Log out</string>
+    <string name="profile_name">Profile</string>
+
+    <string-array name="items">
+        <item>Case Options</item>
+        <item>Home</item>
+        <item>Results</item>
+        <item>Log out</item>
+    </string-array>
+
+    <string-array name="caseOptions">
+        <item>Add Case</item>
+        <item>Edit Case</item>
+        <item>Re-open Case</item>
+        <item>Replace Judge</item>
+        <item>Close Any Case</item>
+        <item>Delete Any Case</item>
+        <item>Case History</item>
+        <item>Highlight Case</item>
+    </string-array>
+
+</resources>
